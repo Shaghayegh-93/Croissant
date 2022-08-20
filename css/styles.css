@@ -1,0 +1,26 @@
+body {
+  background: rgba(99, 95, 95, 0.267);
+  text-align: center;
+}
+p {
+  max-width: 50%;
+  margin: 0 auto;
+}
+div {
+  margin-top: 10px;
+}
+a {
+  padding: 5px;
+  color: #000;
+  font-weight: bold;
+}
+img{
+    width:50%;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.contact{
+    margin-top: 10px ;
+    font-weight: bolder;
+    color: crimson;
+}
